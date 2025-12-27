@@ -1,7 +1,6 @@
 # Boxnet
-Virtual network I put together in Virtual Box for pentesting
 
-I set up a VM network for pentesting that consists of 
+I set up a VM network in VirtualBox for pentesting that consists of 
   - Kali attack machine
   - Widows Server 2019 w/ Active Directory 
   - Windows 10 machine
