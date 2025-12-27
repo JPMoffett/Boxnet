@@ -1,5 +1,5 @@
 # Boxnet
-Virtual network I put together for pentesting
+Virtual network I put together in Virtual Box for pentesting
 
 I set up a VM network for pentesting that consists of 
   - Kali attack machine
